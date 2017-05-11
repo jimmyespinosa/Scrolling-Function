@@ -14,6 +14,7 @@
 		D3003CCB1EBD66BA00F2E52C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D3003CC91EBD66BA00F2E52C /* LaunchScreen.storyboard */; };
 		D3003CD61EBD66BA00F2E52C /* PageTheScrollTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3003CD51EBD66BA00F2E52C /* PageTheScrollTests.swift */; };
 		D3003CE11EBD66BA00F2E52C /* PageTheScrollUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3003CE01EBD66BA00F2E52C /* PageTheScrollUITests.swift */; };
+		D3003CEF1EBD675000F2E52C /* Scrollview-Assets in Resources */ = {isa = PBXBuildFile; fileRef = D3003CEE1EBD675000F2E52C /* Scrollview-Assets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		D3003CDC1EBD66BA00F2E52C /* PageTheScrollUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PageTheScrollUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3003CE01EBD66BA00F2E52C /* PageTheScrollUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageTheScrollUITests.swift; sourceTree = "<group>"; };
 		D3003CE21EBD66BA00F2E52C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D3003CEE1EBD675000F2E52C /* Scrollview-Assets */ = {isa = PBXFileReference; lastKnownFileType = folder; path = "Scrollview-Assets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		D3003CB41EBD66BA00F2E52C = {
 			isa = PBXGroup;
 			children = (
+				D3003CEE1EBD675000F2E52C /* Scrollview-Assets */,
 				D3003CBF1EBD66BA00F2E52C /* PageTheScroll */,
 				D3003CD41EBD66BA00F2E52C /* PageTheScrollTests */,
 				D3003CDF1EBD66BA00F2E52C /* PageTheScrollUITests */,
@@ -235,6 +238,7 @@
 				D3003CCB1EBD66BA00F2E52C /* LaunchScreen.storyboard in Resources */,
 				D3003CC81EBD66BA00F2E52C /* Assets.xcassets in Resources */,
 				D3003CC61EBD66BA00F2E52C /* Main.storyboard in Resources */,
+				D3003CEF1EBD675000F2E52C /* Scrollview-Assets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
